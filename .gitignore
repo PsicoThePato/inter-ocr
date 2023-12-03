@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 input/*.pdf
-db/*
+app/db/*
